@@ -34,6 +34,6 @@ Helps airlines like British Airways better understand customer behaviour and imp
 🚀 Author
 
 Your Name
-LinkedIn: https://www.linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7457046262555590656/
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Bilal-afzal2024/british-airways-data-science-simulation
