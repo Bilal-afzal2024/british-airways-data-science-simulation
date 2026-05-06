@@ -39,9 +39,19 @@ This model can help airlines like British Airways identify high-intent customers
 - `README.md` → Project documentation  
 
 ## 🔗 Links
+- portfolio website: 
 - GitHub: https://github.com/Bilal-Afzal-AI
 - LinkedIn: https://www.linkedin.com/in/bilal-mohammad-afzal/
 - Kaggle: https://www.kaggle.com/bilalmohammadafzal
+- Devpost: https://devpost.com/bilal-mafzal7894?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+- Leetcode: https://leetcode.com/u/BilalAfzal/
+- Lablab AI: 
+- X (Twitter): https://x.com/Bilal_Moh_afzal
+- YouTube Channel:
+- Medium: https://medium.com/@bilal.mafzal7894
+- Instagram: https://www.instagram.com/bilalafzal.tech/
+- Gmail: bilal.mafzal7894@gmail.com
+- Discord: 
 
 ## 📌 Author
-Bilal AFzal 
+Bilal Afzal 
