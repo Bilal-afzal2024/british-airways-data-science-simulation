@@ -1,39 +1,46 @@
-✈️ British Airways Data Science Job Simulation
+# ✈️ British Airways Data Science Project
 
-This project was completed as part of a virtual experience program with British Airways via Forage.
+This project was completed as part of a Data Science Job Simulation with British Airways via Forage.
 
-📌 Project Overview
+## 📌 Project Overview
+The goal of this project is to predict customer booking behaviour using machine learning and analyse factors that influence booking decisions.
 
-This project focuses on predicting customer booking behaviour and analysing airline operational demand using machine learning.
+## 📊 Dataset
+- 50,000+ customer booking records  
+- Includes travel details, booking behaviour, and customer preferences  
 
-🧠 Objectives
-Predict whether a customer will complete a booking
-Identify key factors influencing booking behaviour
-Estimate lounge demand at Heathrow Terminal 3
-📊 Dataset
-50,000+ customer booking records
-Features include travel details, preferences, and booking behaviour
-⚙️ Tools & Technologies
-Python
-Pandas
-Scikit-learn
-Matplotlib
-Random Forest Classifier
-🤖 Machine Learning Model
-Algorithm: Random Forest Classifier
-Accuracy: 85%
-Cross-validation score: 70.6%
-🔍 Key Insights
-Purchase lead time is a major predictor of booking behaviour
-Route and destination significantly influence conversion rates
-Customer add-ons (meals, baggage, seat preference) impact booking likelihood
-💼 Business Impact
+## 🧠 Objectives
+- Predict whether a customer will complete a booking  
+- Identify key factors influencing booking behaviour  
+- Support business decision-making using data insights  
 
-Helps airlines like British Airways better understand customer behaviour and improve targeted marketing strategies and operational planning.
+## ⚙️ Tools & Technologies
+- Python  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Jupyter Notebook  
 
-🚀 Author
+## 🤖 Machine Learning Model
+- Algorithm: Random Forest Classifier  
+- Accuracy: 85.3%  
+- Cross-validation score: 70.6%  
 
-Your Name
-LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7457046262555590656/
+## 🔍 Key Insights
+- Purchase lead time is a strong predictor of booking behaviour  
+- Route and destination significantly impact booking likelihood  
+- Customer add-ons (meals, baggage, seat preference) influence decisions  
 
-GitHub: https://github.com/Bilal-afzal2024/british-airways-data-science-simulation
+## 💼 Business Impact
+This model can help airlines like British Airways identify high-intent customers earlier and improve targeted marketing strategies, increasing booking conversions.
+
+## 🚀 Project Structure
+- `ba_customer_booking_prediction.ipynb` → Main notebook with full analysis and model  
+- `README.md` → Project documentation  
+
+## 🔗 Links
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://www.linkedin.com/in/your-profile  
+
+## 📌 Author
+Bilal AFzal 
